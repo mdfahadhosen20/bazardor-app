@@ -6,7 +6,7 @@ BazarDor is a responsive grocery price application for Bangladesh. Browse daily 
 
 ## 🔗 Project Links
 
-- **Live Website:** https://github.com/mdfahadhosen20/bazardor-app
+- **Live Website:** https://bazardor-app-one.vercel.app/
 - **GitHub Repository:** https://github.com/mdfahadhosen20/bazardor-app
 
 ## ✨ Features
